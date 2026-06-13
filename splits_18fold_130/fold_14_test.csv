@@ -1,0 +1,9 @@
+Infant,File,Label,Official_Score,Label_Source
+A15,A15M12-JTP-7038NE.jpg,Neutral,53.0,official_csv
+A15,A15M12-JTP-7122SA.jpg,Sad,-,filename
+A15,A15M12-JTP-7139HA.jpg,Happy,71.0,official_csv
+A15,A15M12-JTP-7045HA.jpg,Happy,77.0,official_csv
+A15,A15M12-JTP-7200HA.jpg,Happy,-,filename
+A15,A15M12-JTP-7144SA.jpg,Sad,74.0,official_csv
+A15,A15M12-JTP-7029SU.jpg,Surprise,53.0,official_csv
+A15,A15M12-JTP-7146SA.jpg,Sad,77.0,official_csv

@@ -1,0 +1,9 @@
+Infant,File,Label,Official_Score,Label_Source
+A03,A03F7-JTPC-4351NE.jpg,Neutral,73.0,official_csv
+A03,A03F7-JTP-4438NE.jpg,Neutral,56.0,official_csv
+A03,A03F7-JTPC-4441DI.jpg,Disgust,58.0,official_csv
+A03,A03F7-JTPC-4504SA.jpg,Sad,71.0,official_csv
+A03,A03F7-JTPC-4403SU.jpg,Surprise,-,filename
+A03,A03F7-JTPC-4406HA-SU.jpg,Happy,55.0,official_csv
+A03,A03F7-JTPC-4363HA.jpg,Happy,57.0,official_csv
+A03,A03F7-JTPC-4401SU.jpg,Surprise,64.0,official_csv

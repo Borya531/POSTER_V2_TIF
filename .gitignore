@@ -1,0 +1,70 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Model weights & checkpoints (large binary files) ─────────────────────────
+# Store these on Google Drive / Baidu Disk / HuggingFace Hub and link in README
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+*.bin
+checkpoint/*
+!checkpoint/.gitkeep
+
+# ── Training logs & outputs ────────────────────────────────────────────────────
+log/*
+!log/.gitkeep
+results*/
+runs/
+wandb/
+*.log
+
+# ── IDE files ─────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── macOS metadata ────────────────────────────────────────────────────────────
+.DS_Store
+__MACOSX/
+._*
+
+# ── Data (raw images — version with Git LFS or download script instead) ───────
+data/images/
+data/raf-db/
+data/affectnet/
+data/caer-s/
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+*.pyc
+*.pyo
+.cache/
+tmp/

@@ -1,0 +1,9 @@
+Infant,File,Label,Official_Score,Label_Source
+A16,A16F6-JTPC-7319NE.jpg,Neutral,62.0,official_csv
+A16,A16F6-JTPC-7400SA-DI.jpg,Sad,-,filename
+A16,A16F6-JTPC-7349DI-AN.jpg,Disgust,44.0,official_csv
+A16,A16F6-JTPC-7340AF.jpg,Fear,56.0,official_csv
+A16,A16F6-JTPC-7435SA.jpg,Sad,69.0,official_csv
+A16,A16F6-JTPC-7401SA.jpg,Sad,65.0,official_csv
+A16,A16F6-JTPC-7312HA.jpg,Happy,72.0,official_csv
+A16,A16F6-JTPC-7452AF.jpg,Fear,61.0,official_csv

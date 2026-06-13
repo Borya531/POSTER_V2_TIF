@@ -1,0 +1,8 @@
+Infant,File,Label,Official_Score,Label_Source
+A06,A06M5-JTPC-5148SA.jpg,Sad,63.0,official_csv
+A06,A06M5-JTPC-5083NE.jpg,Neutral,91.0,official_csv
+A06,A06M5-JTPC-5087HA.jpg,Happy,67.0,official_csv
+A06,A06M5-JTPC-5113HA.jpg,Happy,100.0,official_csv
+A06,A06M5-JTPC-5124NE.jpg,Neutral,-,filename
+A06,A06M5-JTPC-5121NE.jpg,Neutral,64.0,official_csv
+A06,A06M5-JTPC-5177AN.jpg,Anger,52.0,official_csv

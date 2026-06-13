@@ -1,0 +1,9 @@
+Infant,File,Label,Official_Score,Label_Source
+A12,A12M5-JTPWC-6533DI-SA.jpg,Disgust,46.0,official_csv
+A12,A12M5-JTPWC-6557SA-AF.jpg,Sad,42.0,official_csv
+A12,A12M5-JTPWC-6554SA.jpg,Sad,66.0,official_csv
+A12,A12F5-JTPWC-6506NE.jpg,Neutral,-,filename
+A12,A12F5-JTPWC-6534AN.jpg,Anger,41.0,official_csv
+A12,A12F5-JTPWC-6452NE.jpg,Neutral,67.0,official_csv
+A12,A12F5-JTPWC-6508NE.jpg,Neutral,71.0,official_csv
+A12,A12F5-JTPWC-6505HA.jpg,Happy,74.0,official_csv

@@ -1,0 +1,11 @@
+Infant,File,Label,Official_Score,Label_Source
+A18,A18M7-JTPWC-7820HA.jpg,Happy,72.0,official_csv
+A18,A18M7-JTPWC-7889SA.jpg,Sad,49.0,official_csv
+A18,A18M7-JTPWC-7910SU.jpg,Surprise,86.0,official_csv
+A18,A18M7-JTPWC-7891DI.jpg,Disgust,51.0,official_csv
+A18,A18M7-JTPWC-7841NE.jpg,Neutral,57.0,official_csv
+A18,A18M7-JTPWC-7890SA-AF.jpg,Sad,-,filename
+A18,A18M7-JTPWC-7817HA.jpg,Happy,93.0,official_csv
+A18,A18M7-JTPWC-7770SU.jpg,Surprise,-,filename
+A18,A18M7-JTPWC-7887AF-DI.jpg,Fear,39.0,official_csv
+A18,A18M7-JTPWC-7767SU.jpg,Surprise,84.0,official_csv
